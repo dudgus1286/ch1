@@ -8,4 +8,12 @@ public class Account {
     public String getAccountNo() {
         return accountNo;
     }
+
+    public int getBalance() {
+        return balance;
+    }
+
+    public String getOwner() {
+        return owner;
+    }
 }
